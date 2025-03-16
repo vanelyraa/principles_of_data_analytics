@@ -2,18 +2,30 @@
 
 by Vanessa Lyra
 
-## Setup
+This repository contains the projects and assignments related to Principles of Data Analysis course I am currently taking in ATU. 
 
-1. Sign up for a free GitHub account
-2. Go to repository page in your browser.
-3. Click the green Code button.
-4. Click de Codespaces tab.
-5. Click Create New Codespace on Main.
+
+## Course Overview
+-Automate computer tasks using a scripting language.
+-Write configuration files for a variety of software applications.
+-Setup and configure a software development environment and toolchain.
+-Develop an algorithm to solve a computational problem.
+-Write a computer program in a high-level programming language.
+-Construct a complex computer program from a series of simpler computer programs. 
+
+## Usage
+- Assigments: Solution to exercises under Tasks.jpynb
 
 ## Technologies
 
-- Python
-- Git
-- GitHub
-- Codespaces
-- Jupiter
+- Python https://www.python.org/
+- GitHub https://github.com/
+- Codespaces https://github.com/features/codespaces
+- Jupiter Notebooks https://jupyter.org/
+
+## Packages
+- Pandas https://pandas.pydata.org/
+- Numpy https://numpy.org/
+
+## Tools
+- Scikit-learn - https://scikit-learn.org/stable/
