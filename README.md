@@ -17,7 +17,6 @@ This repository contains the projects and assignments related to Principles of D
 - Assigments: Solution to exercises under Tasks.jpynb
 
 ## Technologies
-
 - Python https://www.python.org/
 - GitHub https://github.com/
 - Codespaces https://github.com/features/codespaces
@@ -26,6 +25,7 @@ This repository contains the projects and assignments related to Principles of D
 ## Packages
 - Pandas https://pandas.pydata.org/
 - Numpy https://numpy.org/
+- Matplotlib https://matplotlib.org/
 
 ## Tools
 - Scikit-learn - https://scikit-learn.org/stable/
