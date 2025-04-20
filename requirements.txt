@@ -1,9 +1,4 @@
-Ensure you have the following installed:
-- Python
-- Jupyter notebook
-
-Project requires the following libraries:
-- Pandas
-- Scikit-learn
-- Numpy
-- Matplotlib
+pandas
+sklearn
+numpy
+matplotlib
