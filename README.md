@@ -2,19 +2,19 @@
 
 by Vanessa Lyra
 
-This repository contains the projects and assignments related to Principles of Data Analysis course I am currently taking in ATU. 
+This repository contains the projects and assignments related to the Principles of Data Analysis course I am currently taking at ATU. 
 
 
 ## Course Overview
 -Automate computer tasks using a scripting language.
 -Write configuration files for a variety of software applications.
--Setup and configure a software development environment and toolchain.
+-Set up and configure a software development environment and toolchain.
 -Develop an algorithm to solve a computational problem.
 -Write a computer program in a high-level programming language.
 -Construct a complex computer program from a series of simpler computer programs. 
 
 ## Usage
-- Assigments: Solution to exercises under Tasks.jpynb
+- Assignments: Solution to exercises under Tasks.jpynb
 
 ## Technologies
 - Python https://www.python.org/
