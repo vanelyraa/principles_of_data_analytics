@@ -27,6 +27,7 @@ This repository contains the projects and assignments related to the Principles 
 - [Numpy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
+- [Scipy](https://scipy.org/)
 
 ## **Tools**
 - [Scikit-learn](https://scikit-learn.org/stable/)
